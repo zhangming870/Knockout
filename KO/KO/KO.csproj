@@ -57,6 +57,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Observables\1\1.js" />
+    <Content Include="Observables\1\HtmlPage1.html" />
+    <Content Include="Observables\arrays\1.js" />
+    <Content Include="Observables\arrays\HtmlPage1.html" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
