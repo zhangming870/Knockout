@@ -66,6 +66,9 @@
     <Content Include="packages.config" />
     <Content Include="Writable computed observables\HtmlPage1.html" />
     <Content Include="Writable computed observables\JavaScript1.js" />
+    <Content Include="Writable computed observables\selectall.html" />
+    <Content Include="Writable computed observables\selectall.js" />
+    <Content Include="Writable computed observables\valueConverter.js" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
