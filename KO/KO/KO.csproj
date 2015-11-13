@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="computed\HtmlPage1.html" />
     <Content Include="computed\JavaScript1.js" />
+    <Content Include="KOAjax\JavaScript1.js" />
     <Content Include="Observables\1\1.js" />
     <Content Include="Observables\1\HtmlPage1.html" />
     <Content Include="Observables\arrays\1.js" />
