@@ -57,11 +57,15 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="computed\HtmlPage1.html" />
+    <Content Include="computed\JavaScript1.js" />
     <Content Include="Observables\1\1.js" />
     <Content Include="Observables\1\HtmlPage1.html" />
     <Content Include="Observables\arrays\1.js" />
     <Content Include="Observables\arrays\HtmlPage1.html" />
     <Content Include="packages.config" />
+    <Content Include="Writable computed observables\HtmlPage1.html" />
+    <Content Include="Writable computed observables\JavaScript1.js" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -72,6 +76,8 @@
   <ItemGroup>
     <Content Include="Scripts\knockout-3.3.0.debug.js" />
     <Content Include="Scripts\knockout-3.3.0.js" />
+    <Content Include="utilityfunction\HtmlPage1.html" />
+    <Content Include="utilityfunction\JavaScript1.js" />
     <Content Include="VisibilityTest\1.js" />
     <Content Include="VisibilityTest\HtmlPage1.html" />
     <Content Include="Web.config" />
