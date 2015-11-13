@@ -65,6 +65,8 @@
     <Content Include="Observables\arrays\1.js" />
     <Content Include="Observables\arrays\HtmlPage1.html" />
     <Content Include="packages.config" />
+    <Content Include="Dom In and Out\HtmlPage1.html" />
+    <Content Include="Dom In and Out\JavaScript1.js" />
     <Content Include="Writable computed observables\HtmlPage1.html" />
     <Content Include="Writable computed observables\JavaScript1.js" />
     <Content Include="Writable computed observables\selectall.html" />
