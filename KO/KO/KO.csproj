@@ -64,6 +64,8 @@
     <Content Include="Observables\1\HtmlPage1.html" />
     <Content Include="Observables\arrays\1.js" />
     <Content Include="Observables\arrays\HtmlPage1.html" />
+    <Content Include="OptionsBinding\HtmlPage1.html" />
+    <Content Include="OptionsBinding\JavaScript1.js" />
     <Content Include="packages.config" />
     <Content Include="Dom In and Out\HtmlPage1.html" />
     <Content Include="Dom In and Out\JavaScript1.js" />

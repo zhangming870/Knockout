@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+    <p>
+        Your country:
+        <select data-bind="options: availableCountries,
+                       optionsText: function(item) {
+                            return item.countryName;
+                       },
+                       optionsValue:'countryName',
+                       value: selectedCountry,
+                       optionsCaption: 'Choose...'"></select>
+    </p>
+
+    <div data-bind="visible: selectedCountry">
+        <span data-bind="text: selectedCountry() ? selectedCountry() : 'unknown'"></span>.
+    </div>
+
+
+
+    <script src="../Scripts/knockout-3.3.0.debug.js"></script>
+    <script src="JavaScript1.js"></script>
+</body>
+</html>
